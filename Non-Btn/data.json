@@ -1,0 +1,86 @@
+[
+  {
+    "AC9327C3D5A5B081083257F96923E8FA": [
+      {
+        "cmdId": "1",
+        "cmd": ".sc"
+      },
+      {
+        "cmdId": "2",
+        "cmd": ".ping"
+      }
+    ]
+  },
+  {
+    "015E3321ED3FFBC463C338920C765377": [
+      {
+        "cmdId": "1",
+        "cmd": ".sc"
+      },
+      {
+        "cmdId": "2",
+        "cmd": ".ping"
+      }
+    ]
+  },
+  {
+    "3EB037A7A4A81D469FABDE": [
+      {
+        "cmdId": "1",
+        "cmd": ".sc"
+      },
+      {
+        "cmdId": "2",
+        "cmd": ".ping"
+      }
+    ]
+  },
+  {
+    "3EB0D5B9AD0A9049C0F082": [
+      {
+        "cmdId": "1",
+        "cmd": ".sc"
+      },
+      {
+        "cmdId": "2",
+        "cmd": ".ping"
+      }
+    ]
+  },
+  {
+    "3EB0877B25FD08C7754B80": [
+      {
+        "cmdId": "1",
+        "cmd": ".sc"
+      },
+      {
+        "cmdId": "2",
+        "cmd": ".ping"
+      }
+    ]
+  },
+  {
+    "3EB0C3088811A33F8619D6": [
+      {
+        "cmdId": "1",
+        "cmd": ".sc"
+      },
+      {
+        "cmdId": "2",
+        "cmd": ".ping"
+      }
+    ]
+  },
+  {
+    "3EB01AD268A5441AE4DAC3": [
+      {
+        "cmdId": "1",
+        "cmd": ".sc"
+      },
+      {
+        "cmdId": "2",
+        "cmd": ".ping"
+      }
+    ]
+  }
+]
